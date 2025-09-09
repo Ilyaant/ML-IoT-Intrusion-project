@@ -19,4 +19,4 @@
 * библиотека для программной реализации трансформерной модели глубокого обучения TabPFN - **tabpfn**;
 * редактор кода и платформа для вычислений - **Google Colaboratory**.
 ## Публикации
-По данной работе была написана статья и выложена на ResearchGate: https://www.researchgate.net/publication/376376776_Metody_masinnogo_obucenia_dla_obnaruzenia_vtorzenij_v_setah_interneta_vesej?_tatpl%5Bac%5D%5B0%5D%5Bactor%5D=AC%3A43394707&_tatpl%5Bac%5D%5B0%5D%5Bid%5D=1710642011092066304&_tatpl%5Bac%5D%5B0%5D%5Bobject%5D=PB%3A376376776&_tatpl%5Bac%5D%5B0%5D%5Bts%5D=1702290037&_tatpl%5Bac%5D%5B0%5D%5Bverb%5D=follow&_tatpl%5Bs%5D=35956f515bc0d415410d755ce7f85d5de76e4c7e&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+Антонов И. А., Исаченко М. К. Методы машинного обучения для обнаружения вторжений в сетях интернета вещей // Искусственный интеллект в промышленных, коммерческих, медицинских и финансовых приложениях : СБОРНИК СТАТЕЙ НАУЧНО-ТЕХНИЧЕСКОГО СЕМИНАРА СТУДЕНТОВ КАФЕДРЫ «ИНЖЕНЕРНОЙ КИБЕРНЕТИКИ», Москва, 30 декабря 2023 года. – Москва: Национальный исследовательский технологический университет "МИСИС", 2023. – С. 9-15.
